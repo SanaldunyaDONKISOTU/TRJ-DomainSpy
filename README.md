@@ -1,20 +1,22 @@
-# TRJ-InfoRecon
-
-## Açıklama
-TRJ-InfoRecon, terminal tabanlı güçlü ve kolay kullanımlı bir bilgi toplama aracıdır.  
-Bir domain girerek aşağıdaki bilgilere hızlıca ulaşabilirsiniz:
-
-- Whois sorgusu  
-- DNS kayıtları (A, MX, NS)  
-- IP adresi çözümleme  
-- Subdomain taraması (crt.sh API ile)
+# 🚀 TRJ DomainSpy
 
 ---
 
-## Kurulum
+## 🔍 Proje Hakkında
 
-1. Projeyi klonlayın veya indirin.  
-2. Gerekli Python paketlerini yükleyin:
+**TRJ DomainSpy**, terminal tabanlı, güçlü ve kullanıcı dostu bir bilgi toplama aracıdır.  
+Bir domain gir, aşağıdaki bilgileri anında kap:
 
+✨ Whois Sorgusu  
+🌐 DNS Kayıtları (A, MX, NS)  
+🖥️ IP Adresi Çözümleme  
+🕵️‍♂️ Subdomain Taraması (Sublist3r aracı ile)
+
+---
+
+## ⚙️ Kurulum
+
+1. Projeyi klonla veya indir:  
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/SanaldunyaDONKISOTU/TRJ-DomainSpy
+cd TRJ-InfoRecon
